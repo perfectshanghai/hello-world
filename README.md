@@ -1,5 +1,5 @@
 # hello-world
-good news! its a repository
+good news everyone! its a repository
 this is a line of code
 
 hoobah doobah
